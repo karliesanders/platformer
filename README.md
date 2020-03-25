@@ -1,2 +1,3 @@
-# platformer
+# Platformer
 basic platformer
+following gdquest
